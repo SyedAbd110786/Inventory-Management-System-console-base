@@ -1,0 +1,3 @@
+Product ID   | Product Name           | Product Type       | Quantity | Price     
+----------------------------------------------------------------------------------
+P2           | Mobile                 | Electronic         | 5        | 50000.00  

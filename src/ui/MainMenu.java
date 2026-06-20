@@ -20,7 +20,7 @@ public class MainMenu extends Menu {
         System.out.print("Choose an option (1-2): ");
         int choice = Input.getIntInRange(1, 3);
 
-        switch(choice){
+        switch (choice) {
             case 1:
                 ProductMenu pm = new ProductMenu();
                 pm.show();
